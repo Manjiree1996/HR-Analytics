@@ -1,6 +1,6 @@
 # HR-Analytics
 # Problem Statement
-This dashboard is designed to show Total Employees, Active Employees, Attrition Rate and Total Attrition of Employees with the help of different aspects.
+This dashboard is designed to show Total Employees, Active Employees, Attrition Rate, Average Age and Attrition of Employees with the help of different aspects.
 # KPI's Requiremnet
 1. Total Employees
 2. Attrition
